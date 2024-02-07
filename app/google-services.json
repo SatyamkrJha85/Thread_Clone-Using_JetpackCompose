@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401421335887",
+    "project_id": "thread-clone-9712a",
+    "storage_bucket": "thread-clone-9712a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401421335887:android:f8ca095a1990f202d4193a",
+        "android_client_info": {
+          "package_name": "com.jetpackcomposethe.thread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eQKOu84E1Sv86WasjAdvst791566hSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
